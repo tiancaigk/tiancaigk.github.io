@@ -2,21 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/about_me/</loc>
+    <loc>https://tiancaigk.github.io/about_me/</loc>
     <lastmod>2023-02-03T11:20:43+01:00</lastmod>
   </url><url>
-    <loc>/archives/</loc>
+    <loc>https://tiancaigk.github.io/archives/</loc>
   </url><url>
-    <loc>/categories/</loc>
+    <loc>https://tiancaigk.github.io/categories/</loc>
   </url><url>
-    <loc>/</loc>
+    <loc>https://tiancaigk.github.io/projects/</loc>
   </url><url>
-    <loc>/projects/</loc>
+    <loc>https://tiancaigk.github.io/projects/thesis/</loc>
   </url><url>
-    <loc>/projects/thesis/</loc>
+    <loc>https://tiancaigk.github.io/search/</loc>
   </url><url>
-    <loc>/search/</loc>
+    <loc>https://tiancaigk.github.io/tags/</loc>
   </url><url>
-    <loc>/tags/</loc>
+    <loc>https://tiancaigk.github.io/</loc>
   </url>
 </urlset>

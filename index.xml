@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>ExampleSite</title>
-    <link>/</link>
-    <description>Recent content on ExampleSite</description>
+    <title>Yuanjun Site</title>
+    <link>https://tiancaigk.github.io/</link>
+    <description>Recent content on Yuanjun Site</description>
     <image>
-      <url>%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://tiancaigk.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://tiancaigk.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
-    <generator>Hugo -- gohugo.io</generator><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo -- gohugo.io</generator><atom:link href="https://tiancaigk.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About me</title>
-      <link>/about_me/</link>
+      <link>https://tiancaigk.github.io/about_me/</link>
       <pubDate>Fri, 03 Feb 2023 11:20:43 +0100</pubDate>
       
-      <guid>/about_me/</guid>
+      <guid>https://tiancaigk.github.io/about_me/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Hi, I am Yadan&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;As a user researcher&lt;/strong&gt; 👧🏻&lt;/p&gt;
 &lt;p&gt;With working experiences at Ubisoft and an academic background in Cognitive Psychology&lt;/p&gt;
@@ -35,10 +35,10 @@
     
     <item>
       <title>Quantitative UX research - Tom Clancy&#39;s The Division 2</title>
-      <link>/projects/thesis/</link>
+      <link>https://tiancaigk.github.io/projects/thesis/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/projects/thesis/</guid>
+      <guid>https://tiancaigk.github.io/projects/thesis/</guid>
       <description>&lt;blockquote&gt;
 &lt;p&gt;This is the Master Thesis project that I completed at &lt;a href=&#34;https://www.massive.se/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Massive Entertainment - A Ubisoft Studio&lt;/a&gt;
 .&lt;/p&gt;
