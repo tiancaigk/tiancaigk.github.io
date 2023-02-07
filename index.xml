@@ -8,7 +8,8 @@
       <url>https://tiancaigk.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
       <link>https://tiancaigk.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
-    <generator>Hugo -- gohugo.io</generator><atom:link href="https://tiancaigk.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 03 Feb 2023 11:20:43 +0100</lastBuildDate><atom:link href="https://tiancaigk.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About me</title>
       <link>https://tiancaigk.github.io/about/</link>
@@ -23,6 +24,17 @@ I love video games, sci-fi movies/books. I have good sense of building decks.</d
     </item>
     
     <item>
+      <title>Resume</title>
+      <link>https://tiancaigk.github.io/resume/</link>
+      <pubDate>Fri, 03 Feb 2023 11:20:43 +0100</pubDate>
+      
+      <guid>https://tiancaigk.github.io/resume/</guid>
+      <description>Yuanjun Li EDUCATION Lund University Lund, Sweden Master of Social Science in Service Management - Retail Specialty	09/2020 – 01/2023
+Relevant Coursework: Retail and Place Development; Digitalization and Services; Retail Marketing; Service Logistics; Managing Service Organizations DeVry University Fremont, US Master of Business Administration	02/2010 – 12/2012
+GPA: 3.94 / 4.0 Relevant Coursework: Accounting; Finance; Leadership and Organization Behaviour; Management of organization change; Marketing Management Master of Management in Information System	02/2010 – 12/2012</description>
+    </item>
+    
+    <item>
       <title>Welcome to Packwar</title>
       <link>https://tiancaigk.github.io/packwar/</link>
       <pubDate>Fri, 03 Feb 2023 11:20:43 +0100</pubDate>
@@ -32,12 +44,13 @@ I love video games, sci-fi movies/books. I have good sense of building decks.</d
     </item>
     
     <item>
-      <title></title>
-      <link>https://tiancaigk.github.io/about_me/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <title>Welcome to Yuanjun&#39;s Blog</title>
+      <link>https://tiancaigk.github.io/blog/blog/</link>
+      <pubDate>Fri, 03 Feb 2023 11:20:43 +0100</pubDate>
       
-      <guid>https://tiancaigk.github.io/about_me/</guid>
-      <description></description>
+      <guid>https://tiancaigk.github.io/blog/blog/</guid>
+      <description>Hello all, This is a test of posting blogs 123 456 789
+Welcome to Packwar 🎮</description>
     </item>
     
     

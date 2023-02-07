@@ -5,11 +5,20 @@
     <loc>https://tiancaigk.github.io/about/</loc>
     <lastmod>2023-02-03T11:20:43+01:00</lastmod>
   </url><url>
+    <loc>https://tiancaigk.github.io/blog/</loc>
+    <lastmod>2023-02-03T11:20:43+01:00</lastmod>
+  </url><url>
+    <loc>https://tiancaigk.github.io/resume/</loc>
+    <lastmod>2023-02-03T11:20:43+01:00</lastmod>
+  </url><url>
     <loc>https://tiancaigk.github.io/packwar/</loc>
     <lastmod>2023-02-03T11:20:43+01:00</lastmod>
   </url><url>
-    <loc>https://tiancaigk.github.io/about_me/</loc>
-    <priority>0</priority>
+    <loc>https://tiancaigk.github.io/blog/blog/</loc>
+    <lastmod>2023-02-03T11:20:43+01:00</lastmod>
+  </url><url>
+    <loc>https://tiancaigk.github.io/</loc>
+    <lastmod>2023-02-03T11:20:43+01:00</lastmod>
   </url><url>
     <loc>https://tiancaigk.github.io/archives/</loc>
   </url><url>
@@ -22,7 +31,5 @@
     <loc>https://tiancaigk.github.io/search/</loc>
   </url><url>
     <loc>https://tiancaigk.github.io/tags/</loc>
-  </url><url>
-    <loc>https://tiancaigk.github.io/</loc>
   </url>
 </urlset>
